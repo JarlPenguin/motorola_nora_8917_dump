@@ -1,0 +1,8 @@
+#
+# OEM_BUILD_PROPERTIES
+#
+ro.build.version.incremental=20
+ro.mot.base_buildid=OPP27.91-176-11/7
+ro.product.name=nora_row
+ro.mot.build.oem.product=nora_row
+ro.mot.build.customerid=retail

@@ -1,0 +1,14 @@
+# user 8.0.0 OPPS27.91-176-11-16 20 release-keys
+- manufacturer: motorola
+- platform: msm8937msm8937
+- codename: nora_8917
+- flavor: user
+- release: 8.0.0
+- id: OPPS27.91-176-11-16
+- incremental: 20
+- tags: release-keys
+- fingerprint: 
+- is_ab: false
+- brand: motorola
+- branch: user-8.0.0-OPPS27.91-176-11-16-20-release-keys
+- repo: motorola_nora_8917_dump
